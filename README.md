@@ -1,1 +1,1 @@
-My repository used to upload coding practices.
+Repository used to upload coding practices.
